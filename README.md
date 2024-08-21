@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MED-007.
 - 👀 I’m interested in cybersecurity, programming, business.
 - 🌱 I’m currently a computer science student at al akhawayn university.
-- 💞️ I’m looking to collaborate on nothing.
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me ...
 
 <!---
