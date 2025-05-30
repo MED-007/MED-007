@@ -10,6 +10,7 @@
 </p>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=med-007&label=Profile%20views&color=0e75b6&style=flat" alt="med-007" /> </p>
 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
