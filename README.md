@@ -31,10 +31,8 @@ class MED007 {
 ## 🔥 Highlights
 
 - 🔥 Built an Instagram Profile with **5K+ Followers**
-- 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
-- 🧩 Building **reusable Flutter components**, animations & UI kits
-- 📦 Making **clean code fun** to learn for beginners
-
+- 👨‍🏫 **Linear Algebra** Teacher Assistant
+- 🧩 Making **3D wbesites**, animations & appealing UI
 ---
 
 ## 🧰 Tech Toolbox
@@ -58,7 +56,8 @@ class MED007 {
 
 - ✅ **advanced C++**
 - ✅ **Problem-solving** with C++ & Java
-- ✅ **Figma UI/UX Websites** with animations
+- ✅ **Figma UI/UX Websites** with animations (for prototyping)
+- ✅ **Build Interactive Modern Websites using HTML,CSS,JS** with animations and visuals
 - ✅ **Design 3D Cultural Moroccan Stuff** with animations
 - ✅ Future AI & ML Engineer **INCHAALLAH**
 
