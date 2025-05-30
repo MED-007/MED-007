@@ -3,9 +3,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/med_l_007/"><img src="https://img.shields.io/badge/@med_l_007-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mohamed-laaguidi-b03236207/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/mohamed-laaguidi-b03236207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.youtube.com/@MED_Laaguidi"><img src="https://img.shields.io/badge/YouTube-MED Gaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://web.facebook.com/mohammed.laaguidi/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href=""><img src="https://img.shields.io/badge/Soon-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
