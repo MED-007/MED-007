@@ -54,13 +54,13 @@ class MED007 {
 
 ---
 
-## 🎬 My Carrer Focus
+## 🎬 My Focus
 
-- ✅ **C++ basics to advanced**
+- ✅ **advanced C++**
 - ✅ **Problem-solving** with C++ & Java
 - ✅ **Figma UI/UX Websites** with animations
-- ✅ Tips for **VS Code, Git**, and productivity
-- ✅ Free projects and walkthroughs
+- ✅ **Design 3D Cultural Moroccan Stuff** with animations
+- ✅ Future AI & ML Engineer **INCHAALLAH**
 
 
 ---
