@@ -1,8 +1,12 @@
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=ff0000&center=true&vCenter=true&width=1000&height=60&lines=Welcome+to+my+GitHub+profile!;AI+and+ML+Engineer+in+progress." alt="Typing SVG" />
   </p>
+
+<div align="center">
+  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Still%20Learning&width=1000&height=150" alt="Still Learning Banner">
+</div>
 <h1 align="center">Hi, I'm Mohamed Laaguidi 👋</h1>
-<h3 align="center">C++ Developer 🧠 | 3D Designer 🖥️ | AI and ML enthusiast 🤖</h3>
+<h3 align="center">C++/Python Developer 🧠 | 3D Designer 🖥️ | AI and ML enthusiast 🤖</h3>
 
 <p align="center">
   <a href="https://www.instagram.com/med_l_007/"><img src="https://img.shields.io/badge/@med_l_007-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -66,8 +70,8 @@ class MED007 {
 
 ## 🎬 My Focus
 
-- ✅ **advanced C++**
-- ✅ **Problem-solving** with C++ & Java
+- ✅ **advanced C++/Python**
+- ✅ **Problem-solving** with C++ & Python
 - ✅ **Figma UI/UX Websites** with animations (for prototyping)
 - ✅ **Build Interactive Modern Websites using HTML,CSS,JS** with animations and visuals
 - ✅ **Design 3D Cultural Moroccan Stuff** with animations
