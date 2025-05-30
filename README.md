@@ -1,3 +1,6 @@
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=ff0000&center=true&vCenter=true&width=1000&height=60&lines=Welcome+to+my+GitHub+profile!;AI+and+ML+Engineer+in+progress." alt="Typing SVG" />
+  </p>
 <h1 align="center">Hi, I'm Mohamed Laaguidi 👋</h1>
 <h3 align="center">C++ Developer 🧠 | 3D Designer 🖥️ | AI and ML enthusiast 🤖</h3>
 
@@ -50,6 +53,14 @@ class MED007 {
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
+<a><img src="https://github-readme-activity-graph.vercel.app/graph?username=MED-007&theme=gotham&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&area=true&custom_title=Contribution%20Curve" width="100%" alt="activity graph"></a>
+  <!-- <a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MED-007&theme=gotham&hide_border=true&include_all_commits=true&show_icons=true&locale=en&layout=compact&langs_count=6" width="27%" alt="Mohammed's github-most-languages" /></a> -->
+    
+  <div align="center">
+    <img src="https://github.com/MohammedMoataz/MohammedMoataz/blob/main/snake.svg" alt="snake" />
+  </div>
+  <br />
+  
 
 ---
 
