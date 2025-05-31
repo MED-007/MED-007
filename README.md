@@ -54,11 +54,16 @@ class MED007 {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MED-007&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MED-007&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 <a><img src="https://github-readme-activity-graph.vercel.app/graph?username=MED-007&theme=gotham&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&area=true&custom_title=Contribution%20Curve" width="100%" alt="activity graph"></a>
-  <!-- <a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MED-007&theme=gotham&hide_border=true&include_all_commits=true&show_icons=true&locale=en&layout=compact&langs_count=6" width="27%" alt="Mohammed's github-most-languages" /></a> -->
+<p align="center">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MED-007&theme=gotham&hide_border=true&include_all_commits=true&show_icons=true&locale=en&layout=compact&langs_count=6" width="27%" alt="Mohammed's github-most-languages" />
+  </a>
+</p>
+
     
   <div align="center">
     <img src="https://github.com/MohammedMoataz/MohammedMoataz/blob/main/snake.svg" alt="snake" />
