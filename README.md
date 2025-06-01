@@ -23,18 +23,18 @@
 
 ## 🚀 About Me
 
-```dart
+```Cpp
 class MED007 {
-  String role = "C++ Developer & Designer";
-  String language = "Arabic | English";
-  List<String> skills = [
-    "Figma UI/UX",
-    "Blender | 3D",
-    "Python, Java, C++, HTML, CSS, JavaScript",
-    "Git & GitHub",
-    "3D Content Creation"
-  ];
-}
+public:
+    string role = "C++ Developer & Designer";
+    string languages = "Arabic | English";
+    vector<string> skills = {
+        "Figma UI/UX",
+        "Blender | 3D",
+        "Python, Java, C++, HTML, CSS, JavaScript",
+        "Git & GitHub",
+        "3D Content Creation"
+    };
 ```
 ## 🔥 Highlights
 
