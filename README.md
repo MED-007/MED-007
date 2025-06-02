@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/mohamed-laaguidi-b03236207/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.youtube.com/@MED_Laaguidi" target="_blank"><img src="https://img.shields.io/badge/YouTube-MED Gaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://web.facebook.com/mohammed.laaguidi/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://med-007.github.io/My3dportfolio/" target="_blank"><img src="https://img.shields.io/badge/Website-My Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://med-007.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Website-My Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
@@ -46,7 +46,7 @@ public:
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,tailwind,javascript,typescript,nodejs,react,nextjs,vscode,github,figma,git,blender,unrealengine,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,scikitlearn,java,html,css,tailwind,javascript,typescript,nodejs,react,nextjs,vscode,github,figma,git,blender,unrealengine,photoshop,illustrator" />
 </p>
 
 ---
