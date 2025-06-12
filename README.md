@@ -46,7 +46,7 @@ public:
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,scikitlearn,java,html,css,tailwind,javascript,typescript,nodejs,react,nextjs,vscode,github,figma,git,blender,unrealengine,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,scikitlearn,java,html,css,tailwind,vscode,github,figma,git,blender,unrealengine,photoshop,illustrator" />
 </p>
 
 ---
