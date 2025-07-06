@@ -35,6 +35,7 @@ public:
         "Git & GitHub",
         "3D Content Creation"
     };
+};
 ```
 ## 🔥 Highlights
 
