@@ -26,7 +26,7 @@
 ```Cpp
 class MED007 {
 public:
-    string role = "C++ Developer & Designer";
+    string role = "Developer & Designer";
     string languages = "Arabic | English";
     vector<string> skills = {
         "Figma UI/UX",
@@ -75,10 +75,10 @@ public:
 
 ## 🎬 My Focus
 
-- ✅ **advanced C++/Python**
-- ✅ **Problem-solving** with C++ & Python
-- ✅ **Figma UI/UX Websites** with animations (for prototyping)
-- ✅ **Build Interactive Modern Websites using HTML,CSS,JS** with animations and visuals
+- ✅ **Get Better at Advanced C++/Python**
+- ✅ **Problem-solving** with C++ & Python & JS
+- ✅ **Figma/Framer UI/UX Websites** with animations (for prototyping)
+- ✅ **Build Interactive Modern Websites using HTML,CSS,JS(React Framework)** with animations and visuals
 - ✅ **Design 3D Cultural Moroccan Stuff** with animations
 - ✅ Future AI & ML Engineer **INCHAALLAH**
 
