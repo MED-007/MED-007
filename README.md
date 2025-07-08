@@ -39,7 +39,7 @@ public:
 ```
 ## 🔥 Highlights
 
-- 🔥 Built an Instagram Profile with **5K+ Followers**
+- 🔥 Built an Instagram Profile with **5K+ Followers** and **Thousands of Views**
 - 👨‍🏫 **Linear Algebra** Teacher Assistant
 - 🧩 Making **3D wbesites**, animations & appealing UI
 ---
